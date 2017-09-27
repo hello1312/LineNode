@@ -1,0 +1,7 @@
+#Wed Sep 27 17:15:26 CST 2017
+base.0=/home/lee/AndroidStudioProjects/LineNode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_20615715a7bf714b9c8418c5f917f75a07567aee
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/lee/AndroidStudioProjects/LineNode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_80c7eebdfa5be3ffd8ff2efd25cdca7a5932d190/classes.dex
+base.1=/home/lee/AndroidStudioProjects/LineNode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_80c7eebdfa5be3ffd8ff2efd25cdca7a5932d190
+file.0=/home/lee/AndroidStudioProjects/LineNode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_20615715a7bf714b9c8418c5f917f75a07567aee/classes.dex

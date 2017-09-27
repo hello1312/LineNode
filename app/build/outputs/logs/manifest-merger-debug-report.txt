@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:5:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/lee/.android/build-cache/b358a9542a68cfc4e8c3e59dfce0bcfe9bedf78b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/lee/.android/build-cache/e39418e516fa7d674b9aeba9b1dc29a9883f9ccb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/lee/.android/build-cache/9473bfc4dcc5319d0265c8a33792f7eff57a0b97/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/lee/.android/build-cache/0bfda52b0bd55c6d24adf68d7e3ef66b4809570b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/lee/.android/build-cache/9b042ba8cd903a99ae7970c17b19220080b2ce26/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/lee/.android/build-cache/c71fafe80a62220dbcbcbb7d359b4ac317f78b7e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/lee/.android/build-cache/1120017d00cd3a0d8cd06d7e35291593c01cec96/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/lee/.android/build-cache/a948d0c6badf8ce76998eb6f62136c9141306417/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/lee/.android/build-cache/d3daf0f8acd883503cf8a8ee03436a9b2a2f9a2e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/lee/.android/build-cache/0cb61dd9d0e525a35474762bc87d9e94f2c9a39c/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:6:9-41
+	android:supportsRtl
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:7:9-35
+	android:roundIcon
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:6:42-87
+	android:allowBackup
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:5:18-44
+	android:icon
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:5:45-79
+	android:theme
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:7:36-67
+activity#com.example.lee.linenode.MainActivity
+ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:8:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/lee/.android/build-cache/b358a9542a68cfc4e8c3e59dfce0bcfe9bedf78b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/lee/.android/build-cache/e39418e516fa7d674b9aeba9b1dc29a9883f9ccb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/lee/.android/build-cache/9473bfc4dcc5319d0265c8a33792f7eff57a0b97/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/lee/.android/build-cache/0bfda52b0bd55c6d24adf68d7e3ef66b4809570b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/lee/.android/build-cache/9b042ba8cd903a99ae7970c17b19220080b2ce26/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/lee/.android/build-cache/c71fafe80a62220dbcbcbb7d359b4ac317f78b7e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/lee/.android/build-cache/1120017d00cd3a0d8cd06d7e35291593c01cec96/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/lee/.android/build-cache/a948d0c6badf8ce76998eb6f62136c9141306417/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/lee/.android/build-cache/489aade313a2f20b4c18698ebf636a2ed48813db/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/lee/.android/build-cache/d3daf0f8acd883503cf8a8ee03436a9b2a2f9a2e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/lee/.android/build-cache/0cb61dd9d0e525a35474762bc87d9e94f2c9a39c/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/lee/.android/build-cache/b358a9542a68cfc4e8c3e59dfce0bcfe9bedf78b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lee/AndroidStudioProjects/LineNode/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/lee/.android/build-cache/b358a9542a68cfc4e8c3e59dfce0bcfe9bedf78b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/lee/.android/build-cache/e39418e516fa7d674b9aeba9b1dc29a9883f9ccb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/lee/.android/build-cache/9473bfc4dcc5319d0265c8a33792f7eff57a0b97/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/lee/.android/build-cache/0bfda52b0bd55c6d24adf68d7e3ef66b4809570b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/lee/.android/build-cache/9b042ba8cd903a99ae7970c17b19220080b2ce26/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/lee/.android/build-cache/c71fafe80a62220dbcbcbb7d359b4ac317f78b7e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/lee/.android/build-cache/1120017d00cd3a0d8cd06d7e35291593c01cec96/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/lee/.android/build-cache/489aade313a2f20b4c18698ebf636a2ed48813db/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/lee/.android/build-cache/d3daf0f8acd883503cf8a8ee03436a9b2a2f9a2e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/lee/.android/build-cache/0cb61dd9d0e525a35474762bc87d9e94f2c9a39c/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/lee/.android/build-cache/b358a9542a68cfc4e8c3e59dfce0bcfe9bedf78b/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/lee/.android/build-cache/b358a9542a68cfc4e8c3e59dfce0bcfe9bedf78b/output/AndroidManifest.xml:26:9-47
